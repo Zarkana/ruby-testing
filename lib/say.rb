@@ -6,7 +6,5 @@ class Say
     "bark"
   end
 
-  def 
-
 end
 
